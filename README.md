@@ -1,3 +1,3 @@
 # Chatbot
 My first tiral
-My name is Sagar pratap singh
+My Author is Sagar pratap singh
